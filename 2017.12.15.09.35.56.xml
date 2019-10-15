@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<email>
+  <envnelope>
+    <from id="MAIL From">test1@test.com</from>
+    <to id="RCPT to">test2@test.com</to>
+  </envnelope>
+  <message>
+    <header>
+      <from>test1</from>
+      <to>test2</to>
+      <date>2017-12-15 09:35:48 (GMT/Coordinated Universal Time)</date>
+      <subject>asd</subject>
+    </header>
+    <body>
+      <text>&#13;fdghdfhgfhhgfhgfhjkdfghdfjkghndryghdfg&#13;&#13;.</text>
+    </body>
+  </message>
+</email>

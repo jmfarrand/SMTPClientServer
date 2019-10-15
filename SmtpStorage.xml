@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<email>
+  <envnelope>
+    <from id="MAIL From">test1@test.com</from>
+    <to id="RCPT to">test2@test.com</to>
+  </envnelope>
+  <message>
+    <header>
+      <from>test1</from>
+      <to>test2</to>
+      <date>2017-12-15 09:23:23 (GMT/Coordinated Universal Time)</date>
+      <subject>subject</subject>
+    </header>
+    <body>
+      <text>&#13;hi this is a test thankyou for reading goodbye&#13;&#13;.</text>
+    </body>
+  </message>
+</email>
